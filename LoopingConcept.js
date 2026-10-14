@@ -30,3 +30,9 @@ while(n <= 20){
     console.log(n);
     n += 2;
 }
+
+console.log("*******************");
+
+for (let x = 10; x >= 1; x--){
+    console.log(x);
+}

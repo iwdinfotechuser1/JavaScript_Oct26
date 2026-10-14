@@ -9,7 +9,7 @@ console.log(b - a)
 // true or false
 
 // ==  -> Equal Value
-// === -> Equal value & type
+// === -> Equal value & type -> Strict
 // !=, !==, >, <, <=, >= 
 
 // let age = 25;
