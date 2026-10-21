@@ -32,3 +32,6 @@ console.log(username === "admin" || password === "1234");
 let broswer = "chrome";
 
 console.log(broswer === "chrome" || broswer === "firefox")
+
+console.log(5 == "5");   // true
+console.log(5 === "5");  // false

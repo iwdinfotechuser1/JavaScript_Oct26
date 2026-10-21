@@ -25,6 +25,7 @@ for (let m = 1; m <= 20; m += 2){
 }
 
 
+// While: Repeats while a condition true
 let n = 1;
 while(n <= 20){
     console.log(n);
